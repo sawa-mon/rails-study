@@ -1,3 +1,3 @@
 # rails-study
 
-# sample
+sample
